@@ -1,7 +1,6 @@
 [book]
 authors = ["wangnf"]
 language = "zh"
-multilingual = false
 src = "src"
 title = "wangnf 技术文档"
 
