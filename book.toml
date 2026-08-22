@@ -1,0 +1,18 @@
+[book]
+authors = ["wangnf"]
+language = "zh"
+multilingual = false
+src = "."
+title = "wangnf 技术文档"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/wangnf/docs"
+edit-url-template = "https://github.com/wangnf/docs/edit/main/{path}"
+
+[output.html.search]
+enable = true
