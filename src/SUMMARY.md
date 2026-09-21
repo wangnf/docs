@@ -30,6 +30,8 @@
 - [C++](c++/01-基础知识.md)
 - [Linux](linux/01-修改用户密码.md)
 - [Python](python/01-conda环境.md)
+  - [day01](python/day01.md)
+  - [第一章](python/第一章/01_创建虚拟环境.md)
 - [SVN](svn/01-检出.md)
 - [WebGL](webgl/01-React加载GLB.md)
   - [React 与 URDF](webgl/02-React与URDF.md)
