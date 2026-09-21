@@ -27,6 +27,7 @@
   - [新项目：初始页面](flutter/新项目/01-初始页面.md)
   - [新项目：应用图标](flutter/新项目/02-应用图标.md)
   - [新项目：Container](flutter/新项目/03-Container.md)
+- [C++](c++/01-基础知识.md)
 - [Linux](linux/01-修改用户密码.md)
 - [Python](python/01-conda环境.md)
 - [SVN](svn/01-检出.md)
