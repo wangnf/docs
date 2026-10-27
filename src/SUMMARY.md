@@ -50,5 +50,5 @@
   - [天空是蓝色的](<英文/01-天空是蓝色的.md>)
 - [工具](工具/README.md)
   - [conda安装](工具/01-conda安装.md)
-  - [OrbStack安装](工具/02-安装 OrbStack.md)
+  - [OrbStack安装](工具/02-安装OrbStack.md)
 
